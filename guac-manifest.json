@@ -13,10 +13,6 @@
         "html/policy.html"
     ],
     
- #   "js" : [
- #       "js/alert.js"
- #   ],
-    
     "resources" : {
         "resources/fonts/raleway/Raleway-Bold.otf"  : "application/x-font-opentype",
         "resources/fonts/raleway/Raleway-Bold.ttf"  : "application/x-font-TrueType",
