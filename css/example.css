@@ -35,7 +35,7 @@
     -moz-background-size:    5em 3em;
     -webkit-background-size: 5em 3em;
     -khtml-background-size:  5em 3em;
-    background-image: url('app/ext/kcm-branding-example/resources/images/saturn/trd-logo.png');
+    background-image: url('app/ext/trd-branding/resources/images/trd/trd-logo.png');
 }
 
 /*
@@ -116,7 +116,7 @@ button.danger:active, a.button.danger:active {
 .logo {
     width: 145px;
     height: 55px;
-    background: #262626 url(app/ext/kcm-branding-example/resources/images/saturn/trd-logo.png) no-repeat left/142px;
+    background: #262626 url(app/ext/trd-branding/resources/images/trd/trd-logo.png) no-repeat left/142px;
     font-size: 0;
     line-height: 0;
 }
