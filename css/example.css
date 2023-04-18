@@ -44,7 +44,7 @@
  */
 .login-ui .login-dialog .warning {
     font-family: Raleway, FreeSans, Arial;
-    font-style: italic;
+/*   font-style: italic;*/
     font-size: 0.75em;
 }
 
