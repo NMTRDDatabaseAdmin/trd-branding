@@ -127,3 +127,10 @@ button.danger:active, a.button.danger:active {
 body {
     font-family: Raleway, FreeSans, Helvetica, Arial, sans-serif;
 }
+
+/*
+ * Hides Documentation link
+ */
+li.item.documentation {
+      visibility: hidden;
+}
