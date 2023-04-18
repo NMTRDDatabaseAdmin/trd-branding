@@ -1,7 +1,7 @@
 # Keeper Connection Manager
-## Custom Branding Example
+## TRD Custom Branding
 
-This repo contains an example of customizing the user interface of the Keeper Connection Manager product.
+This repo contains an files for customizing the user interface of the Keeper Connection Manager product.
 
 This directory structure provides an example of how to apply custom branding
 and HTML extension to the Keeper Connection Manager web application. This makes use
