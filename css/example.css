@@ -42,10 +42,9 @@
  * For our custom warning code, specify the font order, as well as the italic
  * style, and size it down a little.
  */
-.login-ui .login-dialog .warning h2 {
+.login-ui .login-dialog .warning {
     font-family: Raleway, FreeSans, Arial;
-    text-align: center;
-    margin: 0;
+    font-size: 0.75em;
 }
 
 /*
