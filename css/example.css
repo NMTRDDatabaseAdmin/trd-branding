@@ -134,11 +134,3 @@ body {
 li.item.documentation {
       visibility: hidden;
 }
-
-/*
- * Hides Top Right Logo link
- */
-li.item {
-      visibility: hidden;
-}
-
